@@ -24,7 +24,7 @@ With this, he supported the beagle's business.
 
 # Chapter 7: A Bad Chapter
 
-The world ended because of the cats that took of the company.
+The world ended because of the cats that took of the company. They destroyed everything with their claws.
 
 # Conclusion
 
