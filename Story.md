@@ -1,25 +1,37 @@
-#Chapter 1: Introduction
+# Chapter 1: Introduction
 
+Once upon a time, in the software development firm,
 
-
-Once upom a time, in the software development form,
-
-there was a programmer named John.
+there was a programmer named Steve.
 
 He was happy at his job.
 
 
 
-#Chapter 2: The Project
-
-
+# Chapter 2: The Project
 
 One day, he was invited to join a key project
 
 
 
-#Chapter 3: The promotion
-
-
+# Chapter 3: The promotion
 
 The boss decided to have a talk with John.
+
+
+
+# Chapter 4: Leadership
+
+Sample
+
+
+
+# Chapter 5: Something
+
+Something
+
+
+
+# Chapter 6: Resolution
+
+Last na
