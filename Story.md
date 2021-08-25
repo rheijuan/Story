@@ -18,9 +18,13 @@ One day, the cats that Rog were playing with were able to take over the company.
 
 
 # Chapter 6: Wes
-There was a beagle that created a hotdog stand. Due to the beagle's cuteness, people bought more hotdogs
-and the business was a success. Since John was promoted, he was able to increase the budget of his food in a day.
+There was a beagle that created a hotdog stand. Due to the beagle's cuteness, people bought more hotdogs.
+and the business was a success. Since Rog was promoted, he was able to increase the budget of his food in a day.
 With this, he supported the beagle's business.
+
+# Chapter 7: A Bad Chapter
+
+The world ended because of the cats that took of the company.
 
 # Conclusion
 
