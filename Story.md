@@ -1,9 +1,9 @@
 # Chapter 1: Introduction
 
-Once upon a time, in the software development firm,
+Once upon a time, in the software developmenasd;koljoqiwp[m/,14pi[ot firm,
 
 there was a programmer named Steve.
-He was happy at his job. AAAAA
+He was happy at his job. Kitten.
 
 # Chapter 2: The Project
 
@@ -33,7 +33,7 @@ test
 
 This edit is made by Rog
 
-# Chapter Wesley: asdvsv
-asdasd
+# Chapter 7: Wes
+abcd
 
 # Chapter Sophia: Sophia
