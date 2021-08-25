@@ -13,7 +13,7 @@ He was happy at his job. Kitten.
 
 # Chapter 2: The Project
 
-One day, he was invited to join a key project
+One day, he was coding at his brand new macbook when he noticed that there were 2 cats playing outside. He decided to play with them for a while so he can get some inspiration for his program.
 
 # Chapter 3: The promotion
 
