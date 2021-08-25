@@ -10,12 +10,17 @@ One day, he was coding at his brand new macbook when he noticed that there were 
 
 The boss decided to have a talk with Rog. Despite his bad performance, he was promoted because he was a good leader. 
 
-# Chapter 4: Leadership
-
+# Chapter 4: Rog
 Rog was able to set leadership trainings for other employees. And he became the boss of the company. He allowed cats to be in the company.
 
 # Chapter 5: Cat CEO
 One day, the cats that Rog were playing with were able to take over the company.  
+
+
+# Chapter 6: Wes
+There was a beagle that created a hotdog stand. Due to the beagle's cuteness, people bought more hotdogs
+and the business was a success. Since John was promoted, he was able to increase the budget of his food in a day.
+With this, he supported the beagle's business.
 
 # Conclusion
 
