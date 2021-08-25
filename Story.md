@@ -32,3 +32,6 @@ test
 
 
 
+# Chapter 6: Resolution
+
+End
