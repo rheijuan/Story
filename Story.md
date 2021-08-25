@@ -15,5 +15,8 @@ The boss decided to have a talk with Rog. Despite his bad performance, he was pr
 Rog was able to set leadership trainings for other employees. And he became the boss of the company. He allowed cats to be in the company.
 
 # Chapter 5: Cat CEO
-
 One day, the cats that Rog were playing with were able to take over the company.  
+
+# Conclusion
+
+If you think that software programming is a great career path, you are most certainly correct. Almost everyone on this planet is reliant on applications, from food procession machinery software to digital social media. Learning how to develop these technologies isn’t just the street credit or being considered smart, but it a very valuable skill that you should master. As you recognized, it’s also important to try and make a career out of it.
