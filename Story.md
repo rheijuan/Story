@@ -18,3 +18,8 @@ One day, he was invited to join a key project
 
 
 
+#Chapter 3: The promotion
+
+
+
+The boss decided to have a talk with John.
