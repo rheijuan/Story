@@ -29,6 +29,8 @@ test
 
 
 
-# Chapter 6: Resolution
+# Chapter 6: Rog
 
-End
+This edit is made by Rog
+
+
