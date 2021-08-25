@@ -33,3 +33,9 @@ test_ another test
 # Chapter 6: Resolution
 
 End _ Test. He started crying. But then he saw all his officemates and got embarassed.
+
+
+
+# Chapter 7: Redemption
+
+red dead
