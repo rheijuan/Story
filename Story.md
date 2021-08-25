@@ -9,7 +9,7 @@ He was happy at his job. Kitten.
 
 # Chapter 2: The Project
 
-One day, he was invited to join a key project
+Three days after, he was invited to join a key project. He was elected to be the project manager of the project.
 
 # Chapter 3: The promotion
 
