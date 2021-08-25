@@ -30,8 +30,6 @@ Sample
 
 test
 
-
-
 # Chapter 6: Resolution
 
-End
+End _ Test
