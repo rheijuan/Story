@@ -2,8 +2,8 @@
 
 Once upon a time, in the software development firm,
 
-there was a programmer named Steve.
-He was happy at his job.
+there was a programmer named Rog.
+He likes cats very much.
 
 # Chapter 2: The Project
 
