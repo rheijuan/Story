@@ -27,19 +27,23 @@ The boss decided to have a talk with John. Be promoted kid.
 
 Sample
 
-
-
 # Chapter 5: Next
 
 test
-
-
 
 # Chapter 6: Rog
 
 This edit is made by Rog
 
 # Chapter 7: Wes
-abcd
+There was a beagle that created a hotdog stand. Due to the beagle's cuteness, people bought more hotdogs
+and the business was a success. Since John was promoted, he was able to increase the budget of his food in a day.
+With this, he supported the beagle's business.
 
 # Chapter Sophia: Sophia
+
+# Conclusion
+
+
+
+
