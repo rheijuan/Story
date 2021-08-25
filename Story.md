@@ -26,6 +26,10 @@ With this, he supported the beagle's business.
 
 The world ended because of the cats that took of the company. They destroyed everything with their claws.
 
+# Chapter 8: A New Hope
+
+A new ninja kitten was born from the streets, whose eyes are brimming with vengeance as he vows to save the world from the evil cats. 
+
 # Conclusion
 
 If you think that software programming is a great career path, you are most certainly correct. Almost everyone on this planet is reliant on applications, from food procession machinery software to digital social media. Learning how to develop these technologies isn’t just the street credit or being considered smart, but it a very valuable skill that you should master. As you recognized, it’s also important to try and make a career out of it.
