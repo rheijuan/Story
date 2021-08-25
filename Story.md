@@ -16,4 +16,4 @@ Rog was able to set leadership trainings for other employees. And he became the 
 
 # Chapter 5: Cat CEO
 
-One day, the cats that Rog were playing with were able to take over the company. 
+One day, the cats that Rog were playing with were able to take over the company.  
