@@ -3,7 +3,7 @@
 Once upon a time, in the software development firm,
 
 there was a programmer named Steve.
-He was happy at his job.
+He was happy at his job. AAAAA
 
 # Chapter 2: The Project
 
@@ -35,7 +35,5 @@ This edit is made by Rog
 
 # Chapter Wesley: asdvsv
 asdasd
-
-
 
 # Chapter Sophia: Sophia
